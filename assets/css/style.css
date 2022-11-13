@@ -1,0 +1,84 @@
+
+html{
+    font-family: 'Raleway', sans-serif;
+}
+
+.card-text{
+    color: #707070;
+}
+
+i{
+    size: 1px;
+    color: #707070;
+}
+
+.precio-oferta{
+    color:#28A745;
+    font-size: 25px;
+    font-weight: 500;
+}
+.precio-normal{
+    color: #707070;
+
+}
+.navbar-toggler:hover .navbar-toggler:focus{
+    color: white;
+}
+
+.custom-toggler.navbar-toggler   {
+    border-color: white;
+}
+/* Setting the stroke to green using rgb values (0, 128, 0) */
+  
+.custom-toggler .navbar-toggler-icon {
+    background-image: url(
+"data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='white' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.navbar-brand img{
+    height: 40px;
+    }
+
+.navbar-nav .nav-link.active {
+    color: white;
+
+}
+.nav-link{
+    color: white;
+}
+.nav-link.disabled{
+    color: white;
+}
+
+footer{
+    padding-top: 20px;
+}
+
+footer img{
+    height: 24px;   
+    width: 82px;
+}
+
+.formulario{
+    background-color: #28A745;
+    padding: 20px;
+    width: 100%;
+}
+.form_titulo{
+    color: white;
+    text-align: center;
+    font-weight: 500;
+    padding-top: 10px;
+}
+.centrado{
+    text-align: center!important;
+}
+
+
+.finalpag{
+    color:#707070;
+    text-align: center;
+    font-weight: 300;
+}
+
+
